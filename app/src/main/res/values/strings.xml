@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prompt Image Sorter AI</string>
+    <string name="select_prompt_file">اختيار ملف الـ Prompts</string>
+    <string name="select_image_folder">اختيار مجلد الصور</string>
+    <string name="select_output_folder">اختيار مجلد الإخراج</string>
+    <string name="start_matching">بدء المطابقة</string>
+    <string name="project_summary">ملخص المشروع</string>
+    <string name="prompts_count">عدد الـ Prompts: %1$d</string>
+    <string name="images_count">عدد الصور: %1$d</string>
+</resources>
